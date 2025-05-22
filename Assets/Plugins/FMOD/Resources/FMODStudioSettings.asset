@@ -526,8 +526,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: ../Desktop/sound/sound4/sound4.fspro
-  sourceBankPath: ../Desktop/sound/sound4/Build
+  sourceProjectPath: Assets/sound4/sound4.fspro
+  sourceBankPath: Assets/sound4/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 1
   ShowBankRefreshWindow: 1

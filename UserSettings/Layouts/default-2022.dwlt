@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 469
     height: 793
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -348,10 +348,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 64}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 1afaffff785d0000
+      m_ExpandedIDs: 6cf8ffff02f9ffff16faffff1afaffff6a5d0000985d0000a25e00008c5f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -705,9 +705,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 255.70677, y: -37.370556, z: 397.36105}
+    m_Target: {x: 354.5046, y: -6.836936, z: 289.93338}
     speed: 2
-    m_Value: {x: 255.70677, y: -37.370556, z: 397.36105}
+    m_Value: {x: 354.5046, y: -6.836936, z: 289.93338}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -753,13 +753,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11904814, y: -0.48104015, z: 0.06783158, w: 0.8662517}
+    m_Target: {x: 0.07901125, y: -0.8291764, z: 0.1244545, w: 0.5397604}
     speed: 2
-    m_Value: {x: 0.11911608, y: -0.47960466, z: 0.067633815, w: 0.86672735}
+    m_Value: {x: 0.07861368, y: -0.83054006, z: 0.12465316, w: 0.5371075}
   m_Size:
-    m_Target: 93.625465
+    m_Target: 27.19262
     speed: 2
-    m_Value: 89.59375
+    m_Value: 27.19262
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1031,7 +1031,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Plugins/FMOD/Resources
+    - Assets/Scripts/OldScripts
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1039,16 +1039,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Plugins/FMOD/Resources
+  - Assets/Scripts/OldScripts
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: C:\Users\apechers\TheTavernAudio_easy_blank
+  m_LastProjectPath: C:\Users\apechers\Documents\GitHub\TheTavernAudio_easy_blank
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58670000
-    m_LastClickedID: 26456
-    m_ExpandedIDs: 00000000ec660000ee660000f0660000f26600000a6700001067000000ca9a3bffffff7f
+    m_SelectedIDs: 24670000
+    m_LastClickedID: 26404
+    m_ExpandedIDs: 00000000026700000467000006670000086700002067000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1076,7 +1076,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ec660000ee660000f0660000f2660000
+    m_ExpandedIDs: 0000000002670000046700000667000008670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1173,7 +1173,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 418
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
