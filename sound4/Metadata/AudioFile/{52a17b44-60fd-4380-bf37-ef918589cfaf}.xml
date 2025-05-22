@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{52a17b44-60fd-4380-bf37-ef918589cfaf}">
+		<property name="assetPath">
+			<value>sample/Easy Going Medieval Tavern - Loop.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>207.609375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{826dcca0-2d41-4e8b-aaca-eb9c0f35f3f5}</destination>
+		</relationship>
+	</object>
+</objects>
